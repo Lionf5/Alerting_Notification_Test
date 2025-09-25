@@ -178,6 +178,3 @@ See `app/core/config.py` for the authoritative list. Common variables:
 - Async driver missing: requirements include `asyncpg`; reinstall deps if needed.
 
 ---
-
-## License
-No license specified. If you plan to open-source, consider adding a LICENSE file (e.g., MIT or Apache-2.0).
